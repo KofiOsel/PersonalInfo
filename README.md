@@ -1,3 +1,3 @@
-# Personal Info
+# Personal Info Assignment
 
 Kofi Osel
